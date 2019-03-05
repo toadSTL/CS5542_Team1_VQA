@@ -1,0 +1,6 @@
+court
+flower
+leaf
+meadow
+stick
+walkway

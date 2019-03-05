@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\Users\\Gregory\\Documents\\GitHub\\CS5542_ICP\\ICP5\\ClassificationCNN\\ClassificationCNN\\Caltech100-3Category-0.001-2conv-basic.model"
+all_model_checkpoint_paths: "D:\\Users\\Gregory\\Documents\\GitHub\\CS5542_ICP\\ICP5\\ClassificationCNN\\ClassificationCNN\\Caltech100-3Category-0.001-2conv-basic.model"
