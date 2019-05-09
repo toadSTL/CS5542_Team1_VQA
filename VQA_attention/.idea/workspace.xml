@@ -1,38 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad7ca6ba-ac60-45d5-8c3f-0b43b964bf47" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data/imgIds_train.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data/imgIds_val.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data/v2_OpenEnded_mscoco_train2014_questions.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data/v2_OpenEnded_mscoco_val2014_questions.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data/v2_mscoco_train2014_annotations.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data/v2_mscoco_val2014_annotations.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Models/VQA_model_attention.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Models/VQA_model_fc7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Models/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Models/classnames.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Models/cnn_preprocessing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Models/data_loader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Models/extract_conv_features.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Models/labels.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Models/ops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Models/prepAnnotations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Models/prepCaptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Models/prepQuestions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Models/resnet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Models/train_evaluate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Models/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Models/vgg16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_loader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extract_conv_features.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prepAnnotations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prepCaptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prepQuestions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/train_evaluate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils.py" afterDir="false" />
-    </list>
+    <list default="true" id="ad7ca6ba-ac60-45d5-8c3f-0b43b964bf47" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,12 +122,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556757632325</updated>
-      <workItem from="1556757633626" duration="780000" />
+      <workItem from="1556757633626" duration="2792000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="780000" />
+    <option name="totallyTimeSpent" value="2792000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
